@@ -1,0 +1,14 @@
+.signin-page {
+  padding: 30px 20px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.signin-content {
+  max-width: 100%;
+}
+
+.login-button {
+  margin-top: 30px;
+}
